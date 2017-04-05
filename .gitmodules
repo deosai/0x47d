@@ -19,3 +19,6 @@
 [submodule "xbt.news"]
 	path = xbt.news
 	url = https://github.com/0x47d/xbt.news.git
+[submodule "urbit.news"]
+	path = urbit.news
+	url = https://github.com/0x47d/urbit.news.git
