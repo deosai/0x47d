@@ -1,3 +1,6 @@
 [submodule "urbit.sh"]
 	path = urbit.sh
 	url = https://github.com/0x47d/urbit.sh.git
+[submodule "bitcoin.sh"]
+	path = bitcoin.sh
+	url = https://github.com/0x47d/bitcoin.sh.git
