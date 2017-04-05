@@ -1,0 +1,24 @@
+[submodule "urbit.sh"]
+	path = urbit.sh
+	url = https://github.com/0x47d/urbit.sh.git
+[submodule "bitcoin.sh"]
+	path = bitcoin.sh
+	url = https://github.com/0x47d/bitcoin.sh.git
+[submodule "freebird.im"]
+	path = freebird.im
+	url = https://github.com/0x47d/freebird.im.git
+[submodule "47d.co"]
+	path = 47d.co
+	url = https://github.com/0x47d/47d.co.git
+[submodule "code.news"]
+	path = code.news
+	url = https://github.com/0x47d/code.news.git
+[submodule "hacker.show"]
+	path = hacker.show
+	url = https://github.com/0x47d/hacker.show.git
+[submodule "xbt.news"]
+	path = xbt.news
+	url = https://github.com/0x47d/xbt.news.git
+[submodule "urbit.news"]
+	path = urbit.news
+	url = https://github.com/0x47d/urbit.news.git
