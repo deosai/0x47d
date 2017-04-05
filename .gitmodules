@@ -13,3 +13,6 @@
 [submodule "code.news"]
 	path = code.news
 	url = https://github.com/0x47d/code.news.git
+[submodule "hacker.show"]
+	path = hacker.show
+	url = https://github.com/0x47d/hacker.show.git
