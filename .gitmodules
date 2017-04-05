@@ -16,3 +16,6 @@
 [submodule "hacker.show"]
 	path = hacker.show
 	url = https://github.com/0x47d/hacker.show.git
+[submodule "xbt.news"]
+	path = xbt.news
+	url = https://github.com/0x47d/xbt.news.git
