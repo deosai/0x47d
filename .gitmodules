@@ -10,3 +10,6 @@
 [submodule "47d.co"]
 	path = 47d.co
 	url = https://github.com/0x47d/47d.co.git
+[submodule "code.news"]
+	path = code.news
+	url = https://github.com/0x47d/code.news.git
